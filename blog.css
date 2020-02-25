@@ -1,0 +1,32 @@
+.post{
+    border: tomato solid 2px;
+    width: 20%;
+    padding: 10px;
+    text-align: center;
+    margin: 10px 20px 10px 15px;
+    background-color: tan
+}
+.float3,.float4{
+    float: right;
+}
+.float1,.float2{
+    float: left;
+}
+.clearfix{
+overflow: auto;
+}
+h2{
+    color: seagreen;
+    font-style: bold;
+}
+img{
+    width: 150px;
+}
+body{
+    background-image: linear-gradient(to top, #00FFFF, #66CDAA);
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
